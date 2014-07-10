@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge170Easy", "Challenge170Easy\Challenge170Easy.csproj", "{7977E0DF-0491-4B34-8536-645E46DDD3AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7977E0DF-0491-4B34-8536-645E46DDD3AF}.Debug|x86.ActiveCfg = Debug|x86
+		{7977E0DF-0491-4B34-8536-645E46DDD3AF}.Debug|x86.Build.0 = Debug|x86
+		{7977E0DF-0491-4B34-8536-645E46DDD3AF}.Release|x86.ActiveCfg = Release|x86
+		{7977E0DF-0491-4B34-8536-645E46DDD3AF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Challenge170Easy\Challenge170Easy.csproj
+	EndGlobalSection
+EndGlobal
